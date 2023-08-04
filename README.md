@@ -8,11 +8,11 @@
 <p>Hello Coders👨‍💻 ,I am Arpan Chowdhury, a aspiring Web developer.🤖 Here is the project of the front-end Web Developement.<h2>Portfolio</h2>
 <p>Here is my personal portfolio.👨🏻‍💻 I have made it using HTML,CSS & JS. It contains a landing page, about me section, my experiences, my best works & contact me section.
   
-  <br>i)I have added a frontend page📃<br>
-  <br>ii)About Me<br> 
-  <br>iii)My experiences👷🏽<br>
-  <br>iv)My best Works👨🏼‍🏭<br>
-  <br>v) Contact me page📲<br>
+-   I have added a frontend page📃
+-  About Me 
+-  My experiences👷🏽
+-  My best Works👨🏼‍🏭
+-  Contact me page📲
 </p>
 I welcome you all to contribute in this repository & make this a grand project. So, what are you waiting for??🤔Just jump into it after reading the guidelines📚</p>
 
